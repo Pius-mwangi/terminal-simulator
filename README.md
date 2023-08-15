@@ -1,5 +1,5 @@
 ## Terminal Simulator (Work in Progress)
-# Welcome to the Terminal Simulator project! This is a simple Python script that aims to simulate a basic terminal environment. The script is still a work in progress and is open to contributions from the community. Feel free to join us in improving and expanding this project. Your feedback, suggestions, and code contributions are highly encouraged.
+ Welcome to the Terminal Simulator project! This is a simple Python script that aims to simulate a basic terminal environment. The script is still a work in progress and is open to contributions from the community. Feel free to join us in improving and expanding this project. Your feedback, suggestions, and code contributions are highly encouraged.
 
 ## Features
 Command Line Interface: The script provides a command-line interface (CLI) that mimics a terminal window, allowing you to interact with simulated directories and commands.
